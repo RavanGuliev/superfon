@@ -130,7 +130,7 @@ const Bestfilter = ({ onFilterChange }) => {
         )}
       </div>
 
-      {/* Price */}
+      
       <div className="border rounded">
         <button
           onClick={() => toggleSection("prices")}
